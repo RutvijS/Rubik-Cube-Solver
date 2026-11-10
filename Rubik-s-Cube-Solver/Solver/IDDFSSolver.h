@@ -1,6 +1,4 @@
-//
-// Created by Amit Shinde 
-//
+
 
 #include<bits/stdc++.h>
 #include "../Model/RubiksCube.h"

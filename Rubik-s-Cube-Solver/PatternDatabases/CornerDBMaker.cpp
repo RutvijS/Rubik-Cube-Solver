@@ -1,6 +1,4 @@
-//
-// Created by Amit Shinde 
-//
+
 
 #include "CornerDBMaker.h"
 

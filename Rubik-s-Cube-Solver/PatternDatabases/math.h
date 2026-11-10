@@ -1,6 +1,3 @@
-//
-// Created by Amit Shinde 
-//
 
 #ifndef RUBIKS_CUBE_SOLVER_MATH_H
 #define RUBIKS_CUBE_SOLVER_MATH_H

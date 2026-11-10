@@ -1,6 +1,4 @@
-//
-// Created by Amit Shinde 
-//
+
 
 #ifndef RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H
 #define RUBIKS_CUBE_SOLVER_NIBBLEARRAY_H

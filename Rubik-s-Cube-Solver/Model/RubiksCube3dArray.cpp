@@ -1,6 +1,3 @@
-//
-// Created by Amit Shinde 
-//
 
 #include "RubiksCube.h"
 
